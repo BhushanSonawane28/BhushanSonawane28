@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bhushan Sonawane 😎
 
-![My GitHub Banner](https://github.com/VenomMonstee/VenomMonstee/blob/main/assets/mankind.gif-ezgif.com-video-to-gif-converter.gif)
+![Banner](./Git/3415030.png)
 
 
 Welcome to my GitHub profile! I'm a passionate developer always learning new things and building cool projects. Here's what I bring to the table:
