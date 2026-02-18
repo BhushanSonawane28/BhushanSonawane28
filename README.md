@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate developer always learning new thi
 
 ## 📂 Projects Showcase:
 
-### 🎮 1. [AnimeLand: A Responsive Anime-Themed Website](https://github.com/yourusername/AnimeLand)
+### 🎮 1. [ SpringBoot-web-app-for-managing-movie-reviews]([https://github.com/yourusername/AnimeLand](https://github.com/BhushanSonawane28/SpringBoot-web-app-for-managing-movie-reviews?tab=readme-ov-file))
 **Tech Stack**: HTML5, CSS3, JavaScript  
 **Description**: A cool, responsive landing page with video background showcasing anime themes.  
 ![AnimeLand](https://yourgiflink.com/demo.gif)  
