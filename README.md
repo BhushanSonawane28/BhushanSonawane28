@@ -14,15 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer always learning new thi
 | ![HTML5](https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?style=for-the-badge&logo=css3) | ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-blueviolet?style=for-the-badge&logo=bootstrap) | ![VSCode](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visual-studio-code) ![Linux](https://img.shields.io/badge/OS-Linux-yellow?style=for-the-badge&logo=linux) |
 
 
-## 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula)
 
 ---
 
